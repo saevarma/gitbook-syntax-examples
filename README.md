@@ -6,6 +6,8 @@ As the GitBook documentation does not include a syntax example in their [docs](h
 
 {% hint style="info" %}
 Info
+
+This is a info section.
 {% endhint %}
 
 {% hint style="success" %}
